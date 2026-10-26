@@ -1,0 +1,9 @@
+PySide6>=6.7,<7
+opencv-python>=4.10,<5
+numpy>=1.26,<3
+SpeechRecognition>=3.10,<4
+PyAudio>=0.2.14
+pyttsx3>=2.90,<3
+pytest>=8,<9
+pytest-qt>=4.4,<5
+PyInstaller>=6.10,<7

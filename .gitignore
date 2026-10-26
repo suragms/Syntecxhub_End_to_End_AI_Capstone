@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.db
+*.sqlite
+build/
+dist/
+*.spec
+.env
+assets/images/*.png
+assets/images/*.jpg

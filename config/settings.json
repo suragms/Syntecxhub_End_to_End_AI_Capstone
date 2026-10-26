@@ -1,0 +1,11 @@
+{
+  "camera_index": 0,
+  "camera_width": 640,
+  "camera_height": 480,
+  "stable_face_frames": 8,
+  "history_enabled": true,
+  "tts_enabled": true,
+  "speech_timeout": 5,
+  "tts_volume": 0.85,
+  "tts_rate": 175
+}
